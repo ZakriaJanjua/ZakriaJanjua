@@ -49,18 +49,6 @@
       </a>
       <br>Python
     </td>
-     <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pandas.pydata.org/static/img/favicon_white.ico" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png" width="48" height="48" alt="Scikit" />
-      </a>
-      <br>Scikit
-    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -93,6 +81,8 @@
       </a>
       <br>Solidity
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#ZakriaJanjua">
         <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="48" height="48" alt="Tailwind" />
@@ -104,6 +94,24 @@
         <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="48" height="48" alt="BeautifulSoup" />
       </a>
       <br>BS4
+    </td>
+     <td align="center" width="96">
+      <a href="#ZakriaJanjua">
+        <img src="https://pandas.pydata.org/static/img/favicon_white.ico" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#ZakriaJanjua">
+        <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png" width="48" height="48" alt="Scikit" />
+      </a>
+      <br>Scikit
+    </td>
+    <td align="center" width="96">
+      <a href="#ZakriaJanjua">
+        <img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo-thumbnail.png" width="48" height="48" alt="Numpy" />
+      </a>
+      <br>Numpy
     </td>
   </tr>
 </table>

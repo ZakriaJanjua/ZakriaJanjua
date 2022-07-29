@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZakriaJanjua&show_icons=true&count_private=true&include_all_commits=true" alt="Zakria Janjua github profile stats" align="right" />
 
-- 🔭 I’m currently working as a Full Stack Developer at **[Samsoft Technologies](https://samsoft.dev/)**
+- 🔭 I’m currently a Full Stack Developer at **[Samsoft Technologies](https://samsoft.dev/)**
 - 🌱 I’m currently learning **Blockchain and Cloud**
 - 📫 Reach me at: zakria.janjua@hotmail.com
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/zakriajanjua/) 

@@ -10,8 +10,6 @@
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/zakriajanjua/) 
 
 ![](https://komarev.com/ghpvc/?username=ZakriaJanjua&style=for-the-badge)
-<div style="margin-top:50px"></div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakriaJanjua" alt="Zakria Janjua github top languages" align="right"/>
 
 <h2 align="left">Favorite Tech</h2>
 

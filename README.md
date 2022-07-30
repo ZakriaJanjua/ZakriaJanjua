@@ -11,6 +11,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ZakriaJanjua&style=for-the-badge)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakriaJanjua&hide=scss,html,ejs" align="right"/>
+
+<div align="left">
 <h2 align="left">Favorite Tech</h2>
 
 > Languages, Tools and Tech Stack I like
@@ -113,3 +116,4 @@
     </td>
   </tr>
 </table>
+</div>

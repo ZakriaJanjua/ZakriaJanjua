@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZakriaJanjua&show_icons=true&count_private=true&include_all_commits=true" alt="Zakria Janjua github profile stats" align="right" />
 
-- 🔭 I’m currently working as a Frontend Developer at **[Smart Cube](https://www.smartcube.co/)**
+- 🔭 I’m currently a CS grad student at **[Universität Bonn](https://www.uni-bonn.de/en)**
 - 🌱 I’m currently learning **Blockchain and Cloud**
 - 📫 Reach me at: zakria.janjua@hotmail.com
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/zakriajanjua/) 
@@ -21,6 +21,7 @@
 <table>
   <tr>
     <td align="center" width="96">
+
       <a href="#ZakriaJanjua">
         <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="48" height="48" alt="React" />
       </a>

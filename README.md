@@ -21,7 +21,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-
       <a href="#ZakriaJanjua">
         <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="48" height="48" alt="React" />
       </a>

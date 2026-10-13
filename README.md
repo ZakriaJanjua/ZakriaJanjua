@@ -1,119 +1,63 @@
-# Hi there! this is Zakria 👋
+# Hi, I'm Zakria 👋
+
+**Software Engineer** · building production SaaS, microservices, and AI-driven systems.
+
+I'm a full-stack engineer with 5+ years of experience shipping real products — from B2B scheduling platforms to enterprise semantic-search infrastructure. These days I'm at **SAP LeanIX** working across a fleet of microservices, while finishing my **MSc in Computer Science at Universität Bonn** (focus: NLP & AI agents).
+
+I like decomposing monoliths into things that scale, wiring up event-driven pipelines, and making LLM features actually useful in production.
+
+- 🏢 Software Developer @ **SAP SE / SAP LeanIX**, Bonn — my work GitHub is **[@zak-ix](https://github.com/zak-ix)**
+- 🎓 MS CS @ **Universität Bonn** — thesis on anonymizing ATC speech data & training an ASR model
+- 🌱 Currently going deeper on **AI agents, semantic search, and cloud architecture**
+- 📫 [zakria.janjua@hotmail.com](mailto:zakria.janjua@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/zakriajanjua/)
+
 ---
-### I love Data Science, Blockchain and Development 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZakriaJanjua&show_icons=true&count_private=true&include_all_commits=true" alt="Zakria Janjua github profile stats" align="right" />
+## 🚀 What I'm building
 
-- 🔭 I’m currently a CS grad student at **[Universität Bonn](https://www.uni-bonn.de/en)**
-- 🌱 I’m currently learning **Blockchain and Cloud**
-- 📫 Reach me at: zakria.janjua@hotmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/zakriajanjua/) 
+### [Orb & Gravel](https://orbandgravel.netlify.app/) — jewelry e-commerce
 
-![](https://komarev.com/ghpvc/?username=ZakriaJanjua&style=for-the-badge)
+A full-stack jewelry storefront I'm building end to end.
+🔗 **[Live demo](https://orbandgravel.netlify.app/)** · 💻 **[Code](https://github.com/Orb-and-Gravel)**
 
+### At SAP LeanIX
 
+- Shipped **100+ production PRs** across 8 microservices (Nest.js, Kotlin/Spring Boot, Angular, PostgreSQL)
+- Built AI-assisted **semantic search** from the ground up — an outbox event pattern streaming changes into Azure AI Search, powering natural-language querying across 1,000+ workspaces
+- Helped decouple the **Portals** backend out of a monolith into an independently deployable service + micro-frontend
+- Re-implemented **Surveys** with an agentic chat service that generates surveys from natural-language prompts
 
-<div align="left">
-<h2 align="left">Favorite Tech</h2>
+---
 
-> Languages, Tools and Tech Stack I like
+## 🧰 Tech I work with
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#ZakriaJanjua" >
-        <img src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#ZakriaJanjua" >
-        <img src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#ZakriaJanjua" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprYdebuGjpDHnU5L4QZOI5ZrqyWmHIRjSBdq5ABi5Z_gcdnP_AgRtLEAsdwuokyhCGtU&usqp=CAU" width="48" height="48" alt="Express" style="object-fit:contain;" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96"> 
-      <a href="#ZakriaJanjua" >
-        <img src="https://pics.freeicons.io/uploads/icons/png/21299071571548141943-512.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96"> 
-      <a href="#ZakriaJanjua" >
-        <img src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="48" height="48" alt="BeautifulSoup" />
-      </a>
-      <br>BS4
-    </td>
-     <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://pandas.pydata.org/static/img/favicon_white.ico" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png" width="48" height="48" alt="Scikit" />
-      </a>
-      <br>Scikit
-    </td>
-    <td align="center" width="96">
-      <a href="#ZakriaJanjua">
-        <img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo-thumbnail.png" width="48" height="48" alt="Numpy" />
-      </a>
-      <br>Numpy
-    </td>
-  </tr>
-</table>
-</div>
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+**Data & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**AI / ML**
+![LLMs](https://img.shields.io/badge/LLM_Integration-412991?style=flat&logo=openai&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=flat)
